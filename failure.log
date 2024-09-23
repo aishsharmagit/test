@@ -1,0 +1,84 @@
+09-03-2024 15:34:07 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:34:07 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:36:22 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:36:22 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:40:43 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:40:43 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:45:07 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 15:45:07 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 16:04:46 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 16:04:46 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 16:16:47 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 16:16:48 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 16:22:33 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 16:22:33 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 17:30:49 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 17:30:50 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 17:33:36 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 17:33:37 - Cant delete Dropzone directory. Directory does not exist 
+
+09-03-2024 17:47:06 - Error: Survey Id: SV_86z3ZRbRzPRGQLk | Message: b'{"meta":{"requestId":"bdc296c5-ca65-4eb8-a7af-ea19de6c6367","httpStatus":"404 - Not Found","error":{"errorCode":"RTE_3","errorMessage":"Survey not found"}}}' 
+
+09-04-2024 16:05:26 - Cant delete Dropzone directory. Directory does not exist 
+
+09-04-2024 16:05:27 - Cant delete Dropzone directory. Directory does not exist 
+
+09-04-2024 16:15:46 - Error: Survey Id: SV_24zXhrhgEG00JZs | Message: 'result' 
+
+09-04-2024 16:22:08 - Error: Survey Id: SV_0O1E2ozrArcUY3Y | Message: b'{"meta":{"httpStatus":"500 - Internal Server Error","error":{"errorMessage":"Internal server error. Please contact Qualtrics support.","errorCode":"AuthZ_0.4","instanceId":"a7e6dbc2-8dfd-4d62-b772-243b6a99e726"},"requestId":"be602990-e616-4151-a0b1-9fb6cfefa577"}}' 
+
+09-04-2024 16:22:08 - Error: Survey Id: SV_39GVetv9J1FpLI9 | Message: b'{"meta":{"httpStatus":"500 - Internal Server Error","error":{"errorMessage":"Internal server error. Please contact Qualtrics support.","errorCode":"AuthZ_0.6","instanceId":"9a769224-2add-4c3f-a432-8846178eb829"},"requestId":"48f727d5-49e7-4b47-9af4-f6fa9a299aa0"}}' 
+
+09-04-2024 16:46:51 - Error: Survey Id: SV_86z3ZRbRzPRGQLk | Message: b'{"meta":{"requestId":"22e21760-1ced-40cd-aae1-c78a89fb3099","httpStatus":"404 - Not Found","error":{"errorCode":"RTE_3","errorMessage":"Survey not found"}}}' 
+
+09-04-2024 17:13:18 - Error: Survey Id: SV_dpt8hNHmSmFqOBT | Message: HTTPSConnectionPool(host='co1.qualtrics.com', port=443): Read timed out. (read timeout=120) 
+
+09-04-2024 17:36:04 - Error: Survey Id: SV_cMUG24nbyQG4WJ7 | Message: b'{"meta":{"httpStatus":"500 - Internal Server Error","error":{"errorMessage":"Internal server error. Please contact Qualtrics support.","errorCode":"AuthZ_0.4","instanceId":"71cbda37-5eda-4edc-8d41-f93ebb54d005"},"requestId":"b224d5c7-c70d-4b76-941e-edce5b02d56c"}}' 
+
+09-04-2024 17:36:05 - Error: Survey Id: SV_3sXqP3CMfPeTQ6F | Message: 'result' 
+
+09-04-2024 18:37:30 - Error: Survey Id: SV_571n8SDwdhhTBGu | Message: HTTPSConnectionPool(host='co1.qualtrics.com', port=443): Max retries exceeded with url: /API/v3/surveys/SV_571n8SDwdhhTBGu/export-responses/ES_2cAe1U61gd5p77M (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11eb12d50>: Failed to resolve 'co1.qualtrics.com' ([Errno 8] nodename nor servname provided, or not known)")) 
+
+09-04-2024 18:37:30 - Error: Survey Id: SV_6hzj0TaZUI3XEJE | Message: HTTPSConnectionPool(host='co1.qualtrics.com', port=443): Max retries exceeded with url: /API/v3/surveys/SV_6hzj0TaZUI3XEJE/export-responses/ES_4MxTn4EprGnqCKa (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a821bd0>: Failed to resolve 'co1.qualtrics.com' ([Errno 8] nodename nor servname provided, or not known)")) 
+
+09-06-2024 15:37:06 - Definition Fetch Logs 
+
+09-06-2024 15:37:06 - Response fetch Logs 
+
+09-06-2024 19:44:01 - Definition Fetch Logs 
+
+09-06-2024 19:44:01 - Response fetch Logs 
+
+09-06-2024 19:54:02 - Definition Fetch Logs 
+
+09-06-2024 19:54:02 - Response fetch Logs 
+
+09-19-2024 17:25:27 - Definition Fetch Logs 
+
+09-19-2024 17:25:27 - Response fetch Logs 
+
+09-19-2024 17:45:29 - Definition Fetch Logs 
+
+09-19-2024 17:45:29 - Response fetch Logs 
+
+09-19-2024 17:53:35 - Definition Fetch Logs 
+
+09-19-2024 17:53:35 - Response fetch Logs 
+
